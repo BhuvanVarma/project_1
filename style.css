@@ -145,7 +145,8 @@ section:nth-child(even) {
 .about-p{
 	font-size: 30px;
 	color: #1400c6;
-	padding-top: 40px; 
+	padding-top: 40px;
+	text-align: justify;
 }
 /*contact*/
 i{
